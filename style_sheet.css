@@ -1,0 +1,26 @@
+h1{
+  text-align: center;
+  background-color: #ccb3ff;
+}
+
+.table_1{
+  background-color: #ccfff5;
+}
+
+.table_2{
+    background-color: #e6ffcc;
+}
+
+table{
+  border-collapse: collapse;
+}
+
+td{
+  border: 2px solid black;
+  padding-left: 1cm;
+  padding-right: 1cm;
+  text-align: center;
+}
+th{
+  border: 2px solid;
+}
